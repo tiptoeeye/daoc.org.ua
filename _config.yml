@@ -2,3 +2,5 @@ title: Даоський Центр "Чжень Дао"
 description: "Шлях до здоров'я і довголіття"
 show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
